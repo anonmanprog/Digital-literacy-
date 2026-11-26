@@ -3,9 +3,7 @@ Digital Literacy Portfolio
 ​Student Digital Ambassador Project
 ​Student Information
 ​Name: MANYA RAJ
-​Registration Number: 25BCE11261
-​Branch: CSE 
-​Year: First Year B.Tech  
+
 ​Course: CSE0001 - Digital Literacy  
 ​Project Overview
 ​As a Student Digital Ambassador, I have developed this portfolio to help my peers navigate the digital world safely and professionally. This repository contains five tasks mapping to the course modules, documenting my skills in digital design, professional networking, cloud collaboration, and cybersecurity. 
