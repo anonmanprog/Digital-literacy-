@@ -2,7 +2,7 @@
 Digital Literacy Portfolio
 ​Student Digital Ambassador Project
 ​Student Information
-​Name: MANYA RAJ
+​Name: MANYA
 
 ​Course: CSE0001 - Digital Literacy  
 ​Project Overview
